@@ -1,0 +1,153 @@
+# Ormao Hub
+
+> Hub français et gratuit de 586 prompts d'IA et 212 skills Claude traduits, classés par usage (trouver des clients, réviser, écrire un email, faire son CV, gérer son budget…). Chaque fiche donne le prompt complet ou le skill, et un exemple de résultat.
+
+## Guides
+- [Skill Claude : définition, exemples et différence avec un prompt](https://ormao.fr/hub/guides/skill-claude-definition/): Ce qu'est un skill Claude, ce qu'il change concrètement, et quand il vaut mieux un simple prompt.
+- [Installer un skill Claude en 1 minute (claude.ai et Claude Code)](https://ormao.fr/hub/guides/installer-un-skill-claude/): La marche à suivre, pas à pas, pour importer un skill dans l'appli Claude ou dans Claude Code.
+- [Les meilleurs skills Claude en 2026, classés par usage](https://ormao.fr/hub/guides/meilleurs-skills-claude/): Notre sélection des skills les plus utiles, choisis parmi les projets open source les plus suivis, pour chaque grand usage.
+- [Les meilleurs prompts IA en français pour ChatGPT, Claude et Gemini](https://ormao.fr/hub/guides/meilleurs-prompts-ia-francais/): Les prompts qui donnent les résultats les plus utiles, classés par usage, prêts à copier.
+- [Écrire un bon prompt : la méthode en 5 étapes](https://ormao.fr/hub/guides/ecrire-un-bon-prompt/): La structure simple qui fait passer une réponse générique à une réponse vraiment utile.
+
+## Usages
+- [Trouver des clients](https://ormao.fr/hub/usages/trouver-des-clients/)
+- [Vendre et négocier](https://ormao.fr/hub/usages/vendre-et-negocier/)
+- [Lancer son activité](https://ormao.fr/hub/usages/lancer-son-activite/)
+- [Fixer ses prix](https://ormao.fr/hub/usages/fixer-ses-prix/)
+- [Marketing et publicité](https://ormao.fr/hub/usages/marketing-et-publicite/)
+- [Référencement (SEO)](https://ormao.fr/hub/usages/referencement-seo/)
+- [Instagram et TikTok](https://ormao.fr/hub/usages/instagram-tiktok/)
+- [LinkedIn](https://ormao.fr/hub/usages/linkedin/)
+- [YouTube et vidéo](https://ormao.fr/hub/usages/youtube-et-video/)
+- [Écrire un email](https://ormao.fr/hub/usages/ecrire-un-email/)
+- [Améliorer un texte](https://ormao.fr/hub/usages/ameliorer-un-texte/)
+- [Rédiger un article ou une newsletter](https://ormao.fr/hub/usages/rediger-un-article/)
+- [Réviser un examen](https://ormao.fr/hub/usages/reviser-un-examen/)
+- [Apprendre un nouveau sujet](https://ormao.fr/hub/usages/apprendre-un-sujet/)
+- [Apprendre une langue](https://ormao.fr/hub/usages/apprendre-une-langue/)
+- [Faire son CV](https://ormao.fr/hub/usages/faire-son-cv/)
+- [Préparer un entretien](https://ormao.fr/hub/usages/preparer-un-entretien/)
+- [Évoluer au travail](https://ormao.fr/hub/usages/evoluer-au-travail/)
+- [Gérer son budget](https://ormao.fr/hub/usages/gerer-son-budget/)
+- [Épargner et comprendre l'investissement](https://ormao.fr/hub/usages/epargner-et-investir/)
+- [Prendre une décision](https://ormao.fr/hub/usages/prendre-une-decision/)
+- [Résoudre un problème](https://ormao.fr/hub/usages/resoudre-un-probleme/)
+- [Organiser son temps](https://ormao.fr/hub/usages/organiser-son-temps/)
+- [Réunions et comptes rendus](https://ormao.fr/hub/usages/reunions-et-comptes-rendus/)
+- [Analyser des données et tableurs](https://ormao.fr/hub/usages/analyser-des-donnees/)
+- [Créer une présentation](https://ormao.fr/hub/usages/creer-une-presentation/)
+- [Créer un site ou une appli](https://ormao.fr/hub/usages/creer-un-site-ou-une-appli/)
+- [Design et identité visuelle](https://ormao.fr/hub/usages/design-et-identite/)
+- [Créer des images avec l'IA](https://ormao.fr/hub/usages/creer-des-images/)
+- [Coder et automatiser](https://ormao.fr/hub/usages/coder-et-automatiser/)
+- [Démarches et courriers](https://ormao.fr/hub/usages/demarches-et-courriers/)
+- [Comprendre un contrat ou un document](https://ormao.fr/hub/usages/comprendre-un-contrat/)
+- [Cuisine et repas](https://ormao.fr/hub/usages/cuisine-et-repas/)
+- [Préparer un voyage](https://ormao.fr/hub/usages/voyager/)
+- [Famille et enfants](https://ormao.fr/hub/usages/famille-et-enfants/)
+- [Sport et bien-être](https://ormao.fr/hub/usages/sport-et-bien-etre/)
+- [Fêtes, discours et cadeaux](https://ormao.fr/hub/usages/fetes-et-cadeaux/)
+- [Écriture créative](https://ormao.fr/hub/usages/ecriture-creative/)
+- [Mieux utiliser l'IA](https://ormao.fr/hub/usages/mieux-utiliser-l-ia/)
+
+## Sélection
+- [Générateur de vœux d'anniversaire sur mesure](https://ormao.fr/hub/prompts/voeux-anniversaire-personnalises/): Obtiens trois messages d'anniversaire personnalisés, du plus classique au plus original.
+- [Simulateur complet d'entretien d'embauche](https://ormao.fr/hub/prompts/simulation-entretien-embauche-2/): Entraîne-toi en conditions réelles avec un recruteur exigeant puis reçois une évaluation détaillée.
+- [Cadrage de projet par questionnement](https://ormao.fr/hub/skills/brainstorming/): Clarifie tes besoins réels et pose les bases d'un projet solide avant d'écrire la moindre ligne.
+- [Humaniseur de texte](https://ormao.fr/hub/skills/humanizer/): Débarrasse tes textes générés par IA des tournures artificielles pour leur redonner une voix naturelle et percutante.
+- [Crash-test d'idées et projets](https://ormao.fr/hub/skills/mp-grill-me/): Mets tes projets à l'épreuve grâce à un interrogatoire rigoureux pour éliminer chaque angle mort avant de te lancer.
+- [Questionnaire de cadrage décisionnel](https://ormao.fr/hub/skills/mp-to-questionnaire/): Transforme tes choix bloqués en un questionnaire ciblé pour extraire facilement l'expertise manquante auprès de tes collègues.
+- [Créateur d'art génératif p5.js](https://ormao.fr/hub/skills/algorithmic-art/): Conçois des œuvres génératives fascinantes et interactives avec p5.js, prêtes à être explorées directement dans ton navigateur.
+- [Création d'Affiches d'Art Graphique](https://ormao.fr/hub/skills/canvas-design/): Conçois des affiches graphiques et des œuvres visuelles d'exception au rendu digne d'un musée.
+- [Direction artistique web sur mesure](https://ormao.fr/hub/skills/frontend-design/): Conçois des interfaces web uniques et mémorables, loin des modèles génériques et des clichés de l'IA.
+- [Rédacteur de communication interne](https://ormao.fr/hub/skills/internal-comms/): Rédige tes points d'équipe, newsletters internes et rapports d'incident selon les formats standards de l'entreprise.
+- [Studio de Chartes Visuelles](https://ormao.fr/hub/skills/theme-factory/): Applique instantanément des palettes harmonieuses et des typographies soignées à tous tes documents et présentations.
+- [Créateur de bannières graphiques](https://ormao.fr/hub/skills/ux-banner-design/): Conçois des bannières percutantes pour tes réseaux, pubs et sites web avec plusieurs directions artistiques sur mesure.
+- [Cadrage de Projet par Interview](https://ormao.fr/hub/skills/interview-me/): Clarifie ton véritable besoin avant de coder ou planifier, grâce à des questions ciblées posées une par une.
+- [Cadrage et affinage d'idées](https://ormao.fr/hub/skills/idea-refine/): Transforme tes intuitions floues en concepts actionnables grâce à un questionnement rigoureux et une synthèse claire pour ton projet.
+- [Design d'Interface Fluide Apple](https://ormao.fr/hub/skills/apple-design/): Conçois des interfaces web fluides, tactiles et réactives en appliquant les règles d'ergonomie et d'animation d'Apple.
+- [Finition et Micro-animations UI](https://ormao.fr/hub/skills/emil-design-eng/): Peaufine tes interfaces web avec des animations fluides, des micro-interactions naturelles et les secrets d'un rendu haut de gamme.
+- [Lexique du Motion Design](https://ormao.fr/hub/skills/animation-vocabulary/): Trouve instantanément le terme technique exact pour décrire n'importe quel effet d'animation d'interface à ton équipe.
+- [Architecte RevOps et Pipeline](https://ormao.fr/hub/skills/revops/): Alignez votre marketing et vos ventes pour convertir plus de prospects grâce à des processus CRM clairs.
+- [Architecture d'offres irrésistibles](https://ormao.fr/hub/skills/offers/): Conçois des offres commerciales à forte conversion pour vendre tes services, formations ou prestations sans brader tes prix.
+- [Attribution et ROI Marketing](https://ormao.fr/hub/skills/attribution/): Identifie les canaux qui génèrent réellement tes ventes et réconcilie les chiffres contradictoires de tes outils publicitaires.
+- [Audit ASO pour application mobile](https://ormao.fr/hub/skills/aso/): Booste la visibilité et les téléchargements de ton application mobile sur l'App Store et Google Play.
+- [Audit SEO Complet](https://ormao.fr/hub/skills/seo-audit/): Analyse la santé technique, le contenu et l'indexation de ton site pour débloquer tes positions sur Google.
+- [Cold email et prospection B2B](https://ormao.fr/hub/skills/cold-email/): Rédige des emails de prospection B2B percutants et naturels qui captent l'attention et génèrent des rendez-vous.
+- [Copywriting et pages de vente](https://ormao.fr/hub/skills/copywriting/): Rédige des textes marketing percutants sans clichés d'IA pour transformer tes visiteurs en clients engagés.
+- [Créateur de Publicités Performantes](https://ormao.fr/hub/skills/ad-creative/): Génère et perfectionne des textes publicitaires percutants pour Google, Meta et TikTok sans clichés marketing.
+- [Créateur de contenu réseaux sociaux](https://ormao.fr/hub/skills/social/): Conçois des posts percutants, des scripts vidéo et un planning de publication adaptés à chaque plateforme sans clichés d'IA.
+- [Création de Pages SEO à Grande Échelle](https://ormao.fr/hub/skills/programmatic-seo/): Conçois des centaines de pages optimisées pour le référencement sans pénalité grâce aux données et aux modèles.
+- [Création de visuels marketing et IA](https://ormao.fr/hub/skills/image/): Conçois des visuels percutants pour tes réseaux et ton site grâce aux bons modèles IA et formats d'optimisation.
+- [Générateur d'idées marketing SaaS](https://ormao.fr/hub/skills/marketing-ideas/): Découvre des stratégies de croissance ciblées parmi plus de 130 leviers éprouvés pour développer ton logiciel.
+- [Optimisation SEO pour IA](https://ormao.fr/hub/skills/ai-seo/): Fais citer tes contenus et ta marque dans ChatGPT, Perplexity et les synthèses des moteurs d'intelligence artificielle.
+- [Optimisation de l'Onboarding Produit](https://ormao.fr/hub/skills/onboarding/): Transforme tes nouveaux inscrits en utilisateurs actifs et fidèles en réduisant drastiquement leur temps d'accès à la valeur.
+- [Optimisation de paywall et conversion](https://ormao.fr/hub/skills/paywalls/): Conçois des écrans de paywall percutants pour transformer tes utilisateurs gratuits en clients payants sans dégrader leur expérience.
+- [Optimisation de popups captivantes](https://ormao.fr/hub/skills/popups/): Crée des popups et bannières qui convertissent tes visiteurs sans les agacer ni impacter ton référencement.
+- [Optimisation des formulaires d'inscription](https://ormao.fr/hub/skills/signup/): Détecte les frictions de tes formulaires d'inscription pour booster le taux de conversion de tes nouveaux utilisateurs.
+- [Optimisation du Taux de Conversion](https://ormao.fr/hub/skills/cro/): Analyse tes pages web et formulaires pour lever les points de friction et transformer plus de visiteurs en clients.
+- [Pages comparatives et alternatives SEO](https://ormao.fr/hub/skills/competitors/): Rédige des pages comparatives crédibles et optimisées pour le SEO afin de convaincre les prospects de tes concurrents.
+- [Partenariats Créateurs et Influence](https://ormao.fr/hub/skills/influencer-marketing/): Lance et gère tes partenariats créateurs rentables, du ciblage au contrat jusqu'au suivi du retour sur investissement.
+- [Pilotage publicitaire et acquisition](https://ormao.fr/hub/skills/ads/): Optimise tes campagnes Google, Meta et LinkedIn pour maximiser ton retour sur investissement et stopper le gaspillage.
+- [Plan de tracking web et produit](https://ormao.fr/hub/skills/analytics/): Définis un plan de mesure rigoureux pour GA4, GTM ou Mixpanel sans polluer tes données de métriques inutiles.
+- [Programmes de Parrainage et Affiliation](https://ormao.fr/hub/skills/referrals/): Crée et optimise tes programmes de parrainage et d'affiliation pour transformer tes clients en moteur de croissance.
+- [Prospection B2B et Chasse Ciblée](https://ormao.fr/hub/skills/prospecting/): Construis et qualifie des listes de prospects prêtes à contacter grâce aux signaux d'achat et à la vérification d'emails.
+- [Protocole de tests AB](https://ormao.fr/hub/skills/ab-testing/): Crée et pilote des tests A/B rigoureux pour maximiser tes conversions sans tirer de fausses conclusions.
+- [Psychologie Marketing et Persuasion](https://ormao.fr/hub/skills/marketing-psychology/): Applique les sciences comportementales et les biais cognitifs pour comprendre tes clients et booster tes conversions éthiquement.
+- [Recherche et persona client](https://ormao.fr/hub/skills/customer-research/): Découvre ce que tes clients pensent vraiment pour bâtir des personas solides et affiner tes messages marketing.
+- [Relations presse et médias](https://ormao.fr/hub/skills/public-relations/): Obtiens des articles de presse, prépare tes interviews et contacte les bons journalistes sans passer par une agence coûteuse.
+- [Routines marketing automatisées](https://ormao.fr/hub/skills/marketing-loops/): Mets en place des routines marketing récurrentes pour piloter ton SEO, tes pubs et ta rétention avec des garde-fous clairs.
+- [Réduction du churn SaaS](https://ormao.fr/hub/skills/churn-prevention/): Conçois des parcours de désabonnement intelligents, récupère les paiements échoués et fidélise tes abonnés pour maximiser tes revenus récurrents.
+- [Référencement Annuaires et Backlinks SaaS](https://ormao.fr/hub/skills/directory-submissions/): Déploie méthodiquement ton logiciel sur les annuaires clés pour doper ton autorité SEO et tes citations par l'IA.
+- [Révision et Optimisation de Copywriting](https://ormao.fr/hub/skills/copy-editing/): Améliore tes textes marketing existants, élimine les tournures générées par IA et booste tes conversions avec sept passes d'édition ciblées.
+- [Stratégie Marketing Événementiel B2B](https://ormao.fr/hub/skills/events/): Conçois des webinaires, salons et dîners professionnels rentables qui génèrent de vraies opportunités commerciales plutôt que de simples badges scannés.
+- [Stratégie d'Outil Gratuit Marketing](https://ormao.fr/hub/skills/free-tools/): Conçois des calculateurs ou générateurs gratuits pour attirer des prospects qualifiés et booster ton référencement naturel.
+- [Stratégie de Communauté Engagée](https://ormao.fr/hub/skills/community-marketing/): Bâtis et anime une communauté active sur Discord ou Slack pour fidéliser tes utilisateurs et booster ta croissance.
+- [Stratégie de Contenu Éditorial](https://ormao.fr/hub/skills/content-strategy/): Bâtis un plan éditorial rentable pour attirer du trafic qualifié et convertir tes lecteurs en clients réguliers.
+- [Stratégie de Lead Magnet](https://ormao.fr/hub/skills/lead-magnets/): Définis et structure des offres gratuites irrésistibles pour capter des adresses email et qualifier tes prospects.
+- [Stratégie de Prix et Monétisation](https://ormao.fr/hub/skills/pricing/): Définis tes tarifs, structure tes offres d'abonnement et maximise tes revenus sans faire fuir tes clients.
+- [Stratégie de co-marketing B2B](https://ormao.fr/hub/skills/co-marketing/): Trouve les partenaires parfaits et structure des campagnes conjointes pour doubler ton audience sans exploser ton budget.
+- [Stratégie de lancement produit](https://ormao.fr/hub/skills/launch/): Planifie et réussis le lancement de ton produit ou nouvelle fonctionnalité étape par étape pour maximiser tes inscriptions.
+- [Stratégie de netlinking éthique](https://ormao.fr/hub/skills/link-building/): Obtiens des backlinks de qualité et des citations IA pour propulser ton site sans risquer de pénalité Google.
+- [Stratégie marketing SMS et WhatsApp](https://ormao.fr/hub/skills/sms/): Conçois des campagnes SMS et WhatsApp conformes et percutantes pour relancer tes paniers abandonnés et booster tes ventes.
+- [Structure et Arborescence Web](https://ormao.fr/hub/skills/site-architecture/): Conçois une arborescence claire, des URLs propres et un maillage interne optimisé pour tes visiteurs et le SEO.
+- [Suivi précis des conversions web](https://ormao.fr/hub/skills/conversion-tracking/): Installe, audite et fiabilise le tracking de tes conversions Google Ads, Meta et GA4 sans perdre de prospects.
+- [Supports de vente B2B percutants](https://ormao.fr/hub/skills/sales-enablement/): Conçois des pitch decks, fiches objections et battlecards percutantes pour aider tes commerciaux à signer plus de contrats.
+- [Séquences email automatisées](https://ormao.fr/hub/skills/emails/): Crée des suites d'emails percutantes pour convertir, onboarder et réactiver tes prospects sans aucun cliché d'écriture IA.
+- [Veille et audit concurrentiel](https://ormao.fr/hub/skills/competitor-profiling/): Analyse les sites de tes concurrents pour cartographier leur positionnement, leurs tarifs et leurs faiblesses.
+- [Adapter son CV à une offre](https://ormao.fr/hub/prompts/adapter-cv-offre/): Optimise ton CV pour une offre précise avec la méthode Défi-Action-Résultat pour séduire les recruteurs.
+- [Alléger la logistique familiale](https://ormao.fr/hub/prompts/charge-mentale-parentale/): Transforme le flux d'emails scolaires et périscolaires en un planning clair sans rien oublier.
+- [Analyse documentaire sans hallucination](https://ormao.fr/hub/prompts/verificateur-sources-strict/): Force l'IA à répondre uniquement d'après tes documents fournis, citations exactes à l'appui, sans jamais inventer.
+- [Arbitrage stratégique pour décision difficile](https://ormao.fr/hub/prompts/matrice-decision-strategique/): Compare rationnellement deux options décisives en anticipant leurs conséquences à long terme.
+- [Architecte de page de vente](https://ormao.fr/hub/prompts/architecture-page-vente/): Obtiens une structure chirurgicale pour concevoir une page de vente taillée pour convertir tes visiteurs.
+- [Assistant réclamation vol retardé](https://ormao.fr/hub/prompts/indemnisation-vol-retard/): Vérifie tes droits à l'indemnisation UE 261 et génère ta lettre de réclamation en 2 minutes.
+- [Audit stratégique niveau direction](https://ormao.fr/hub/prompts/consultant-strategie-direction/): Livre une analyse stratégique percutante et digne d'un cabinet de conseil pour éclairer tes choix de croissance.
+- [Auditer et optimiser son CV](https://ormao.fr/hub/prompts/audit-qualite-cv/): Passe ton CV au crible des standards recruteurs pour booster tes invitations en entretien.
+- [Calculateur de tarif journalier freelance](https://ormao.fr/hub/prompts/calculateur-tarif-freelance/): Détermine ton TJM et ton taux horaire pour gagner le salaire net que tu mérites.
+- [Chef anti-gaspillage du frigo](https://ormao.fr/hub/prompts/sauvetage-frigo-express/): Transforme les restes de ton frigo en deux recettes rapides et savoureuses pour éviter le gaspillage.
+- [Coach d'apprentissage accéléré](https://ormao.fr/hub/prompts/mentor-apprentissage-rapide/): Maîtrise n'importe quel sujet complexe grâce aux techniques de Feynman et au questionnement socratique.
+- [Coach interactif d'anglais parlé](https://ormao.fr/hub/prompts/coach-anglais-conversationnel/): Pratique ton anglais conversationnel au quotidien avec des corrections ciblées et des questions dynamiques.
+- [Coach préparation entretien d'embauche](https://ormao.fr/hub/prompts/coach-entretien-metier/): Prépare tes candidatures avec les compétences clés de ton métier et les questions pièges des recruteurs.
+- [Collaborer avec un associé technique](https://ormao.fr/hub/prompts/associe-technique-virtuel/): Construis ton produit digital pas à pas avec un directeur technique virtuel dédié à ton projet.
+- [Comparateur d offres d emploi](https://ormao.fr/hub/prompts/comparateur-offres-emploi/): Compare objectivement plusieurs propositions d'embauche sur la rémunération totale et la qualité de vie.
+- [Comparer des concepts complexes](https://ormao.fr/hub/prompts/grille-comparative-experts/): Distingue clairement 5 à 7 notions clés d'un sujet sans jamais les confondre.
+- [Comprendre avec des analogies](https://ormao.fr/hub/prompts/expliquer-par-analogies/): Assimile un sujet complexe grâce à trois métaphores progressives du quotidien vers un niveau expert.
+- [Comprendre n'importe quel concept technique](https://ormao.fr/hub/prompts/assimiler-concept-technique/): Maîtrise un sujet de programmation complexe grâce à une décomposition pédagogique en 3 paliers progressifs.
+- [Conte marin sur les émotions](https://ormao.fr/hub/prompts/conte-emotions-enfant/): Invente une histoire captivante pour aider un enfant à comprendre et exprimer ses émotions.
+- [Convertir un tableau PDF en CSV](https://ormao.fr/hub/prompts/pdf-vers-csv/): Extrais les données d'une image ou d'un PDF pour obtenir un fichier CSV propre et exploitable.
+- [Copilote de voyage intelligent](https://ormao.fr/hub/prompts/copilote-de-voyage/): Centralise tes réservations en un itinéraire fluide et anticipe tous les pièges logistiques.
+- [Critique impitoyable de tes arguments](https://ormao.fr/hub/prompts/avocat-du-diable/): Teste la solidité de tes idées face à un contradicteur hostile et sans complaisance.
+- [Créateur de flashcards Anki](https://ormao.fr/hub/prompts/generateur-cartes-anki/): Transforme tes cours ou lectures en fiches de mémorisation efficaces prêtes pour Anki.
+- [Créer sa garde-robe capsule](https://ormao.fr/hub/prompts/garde-robe-capsule/): Obtiens une garde-robe minimale et polyvalente adaptée à ton quotidien, ta morphologie et tes vêtements actuels.
+- [Créer un escape game maison](https://ormao.fr/hub/prompts/escape-game-maison/): Ce prompt conçoit un jeu d'évasion immersif et complet à réaliser chez toi avec un petit budget.
+- [Diagnostic des blocages d'agence](https://ormao.fr/hub/prompts/diagnostic-goulot-agence/): Découvre le véritable goulot d'étranglement qui freine ton agence et les actions pour le débloquer.
+- [Dresser un compte-rendu de reunion](https://ormao.fr/hub/prompts/compte-rendu-reunion-2/): Convertis les echanges d'une reunion en plan d'action operationnel avec decisions et responsables.
+- [Déclinateur de contenu multicanal](https://ormao.fr/hub/prompts/recycleur-de-contenu/): Transforme un texte brut en posts percutants pour LinkedIn, X, vidéo courte et newsletter.
+- [Décoder une offre d'emploi](https://ormao.fr/hub/prompts/decoder-offre-emploi/): Analyse une offre d'emploi pour déceler les exigences réelles, les non-dits et préparer tes questions d'entretien.
+- [Décrypter des conditions générales](https://ormao.fr/hub/prompts/decryptage-conditions-generales/): Repère les pièges cachés et comprends enfin ce que tu t'apprêtes à signer sans jargon.
+- [Détecteur d'arnaques et fraudes](https://ormao.fr/hub/prompts/detecteur-arnaques-suspectes/): Vérifie immédiatement si un message, un appel ou un lien suspect cache une tentative d'escroquerie.
+- [Détecteur de compétences cachées](https://ormao.fr/hub/prompts/detecteur-competences-cachees/): Révèle tes compétences invisibles et valorise enfin ton savoir-faire réel pour booster ton profil ou CV.
+- [Détecteur de pièges juridiques](https://ormao.fr/hub/prompts/audit-contrat-risques/): Repère instantanément les clauses abusives, zones grises et risques cachés de tes contrats.
+- [Détective des factures d'énergie](https://ormao.fr/hub/prompts/detective-facture-energie/): Identifie les vraies fuites d'argent de tes factures de gaz et d'électricité et réduis ta consommation.
+- [Email de prospection percutant](https://ormao.fr/hub/prompts/email-prospection-court/): Génère un email froid court et naturel qui incite ton prospect à te répondre sans insister.
+- [Explicateur de devoirs scolaires](https://ormao.fr/hub/prompts/explicateur-devoirs-enfants/): Aide ton enfant à comprendre ses leçons sans lui donner les réponses toutes faites.

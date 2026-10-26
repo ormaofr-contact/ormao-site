@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /media/
+Disallow: /hub/c-
+Disallow: /hub/membre/
+Disallow: /pdf-gratuit/*.pdf
+
+Sitemap: https://ormao.fr/hub/sitemap.xml
